@@ -21,14 +21,3 @@ You can download melo for Mac and Windows from https://www.melo-app.org
 
 1.  [React](https://reactjs.org?ref=melo) & [Redux](https://redux.js.org?ref=melo)
 2.  [Electron](https://www.electronjs.org?ref=melo)
-
-## Opensource
-Guides for running Melo locally, debugging with ides, and issuing a pull request.
-
-### Getting Started
-Run the app locally: `make start` (You may get issues if you run this from a terminal inside an ide.)
-
-### Debugging with VS Code
-The .vscode folder has two debugging configurations. The "Electron: Main" build configuration allows you to step through and 
-debug the main electron process. The "Electron: Renderer" build configuration allows you to debug and see the actual electron
-application.
